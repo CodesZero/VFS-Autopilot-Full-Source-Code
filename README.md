@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- Animated typing headline -->
 
@@ -292,7 +292,7 @@ See [`LICENSE`](LICENSE) for the full terms.
   <img src="https://img.shields.io/badge/GitHub-OnlineUnknowns-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 &nbsp;
-<a href="https://wa.me/201286669272">
+<a href="https://wa.me/201200655872">
   <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
